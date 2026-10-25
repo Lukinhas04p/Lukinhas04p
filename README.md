@@ -2,6 +2,8 @@
 
 <img src="./assets/lucas-dev-banner.svg" width="100%" alt="LUCAS.DEV — banner preto e vermelho personalizado"/>
 
+![Profile views](https://komarev.com/ghpvc/?username=Lukinhas04p&label=PROFILE%20VIEWS&color=dc143c&style=flat-square)
+
 ### `> SYSTEM ONLINE_ `
 
 **Estudante de Ciência da Computação · Desenvolvedor Web**
@@ -14,6 +16,8 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-LUKINHAS04P-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukinhas04p)
 
 </div>
+
+**[SOBRE](#01--who-am-i) · [TECNOLOGIAS](#02--my-toolkit) · [PROJETOS](#03--selected-work) · [ATIVIDADE](#04--development-activity)**
 
 ---
 
@@ -78,6 +82,8 @@ Site institucional com catálogo de produtos, desenvolvido para apresentar a mar
 ### `05 // LET'S BUILD SOMETHING`
 
 **DESIGN. CODE. DEPLOY. REPEAT.**
+
+[![GitHub](https://img.shields.io/badge/GITHUB-LUKINHAS04P-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukinhas04p)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:080808,50:7f1020,100:ed1c34" width="100%" alt="Rodapé em preto e vermelho"/>
 
