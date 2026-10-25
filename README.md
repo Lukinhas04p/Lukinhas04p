@@ -1,84 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080808,50:7f1020,100:ed1c34&text=LUCAS.DEV&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Lucas Dev em preto e vermelho"/>
+<img src="./assets/lucas-dev-banner.svg" width="100%" alt="LUCAS.DEV — banner preto e vermelho personalizado"/>
 
 ### `> SYSTEM ONLINE_ `
 
-**Estudante de Ciência da Computação | Desenvolvedor Web**
+**Estudante de Ciência da Computação · Desenvolvedor Web**
 
-Transformando ideias em experiências digitais modernas, funcionais e bem construídas.
+*Construindo experiências digitais com criatividade, atenção aos detalhes e vontade de evoluir.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=FF334A&center=true&vCenter=true&width=560&lines=Desenvolvimento+Web;Interfaces+modernas+e+responsivas;Aprendendo%2C+criando+e+evoluindo" alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=FF3048&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Learning+something+new+every+day;Code.+Create.+Evolve." alt="Frases animadas sobre desenvolvimento"/>
+
+[![Portfolio](https://img.shields.io/badge/PROJETO_ONLINE-BARBEARIA_ARTES-E32640?style=for-the-badge&logo=vercel&logoColor=white)](https://barbearia-artes.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-LUKINHAS04P-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukinhas04p)
 
 </div>
 
 ---
 
-### `01 / SOBRE MIM`
+### `01 // WHO AM I?`
 
-```typescript
+```ts
 const lucas = {
-  usuario: "Lukinhas04p",
-  formacao: "Ciência da Computação",
-  foco: ["Desenvolvimento Web", "Interfaces modernas"],
-  objetivo: "Evoluir a cada projeto"
+  github: "@Lukinhas04p",
+  education: "Computer Science",
+  interests: ["Web Development", "UI Design", "Software Engineering"],
+  currentMission: "Learn, build and improve with every project",
 };
 ```
 
-- 🎓 Estudando **Ciência da Computação**
-- 💻 Desenvolvendo projetos com **React, Next.js e TypeScript**
-- 🎯 Foco em **experiência do usuário, design e código organizado**
-- 🚀 Sempre aprendendo novas ferramentas e tecnologias
+Sou estudante de **Ciência da Computação** e gosto de transformar ideias em projetos reais. Tenho interesse em desenvolvimento web, interfaces modernas e experiências digitais bem construídas.
 
-### `02 / TECH STACK`
+### `02 // MY TOOLKIT`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas"/>
+**Linguagens e tecnologias**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind"/>
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code e Vercel"/>
 
 </div>
 
-### `03 / PROJETOS EM DESTAQUE`
+### `03 // SELECTED WORK`
 
-<table>
-<tr>
-<td>
+<table><tr><td width="100%">
 
-**BARBEARIA ARTES**
+#### BARBEARIA ARTES `// WEB PROJECT`
 
-Site institucional e catálogo de produtos para uma barbearia, com foco em apresentação profissional e navegação moderna.
+Site institucional com catálogo de produtos, desenvolvido para apresentar a marca e seus serviços com uma experiência moderna e responsiva.
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS
+**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS
 
-[🌐 Ver projeto online](https://barbearia-artes.vercel.app/)
+**[VISITAR SITE ↗](https://barbearia-artes.vercel.app/)**
 
-<sub>O código-fonte está em um repositório privado.</sub>
+<sub>Repositório de código privado. O link acima leva apenas ao site publicado.</sub>
 
-</td>
-</tr>
-</table>
+</td></tr></table>
 
-### `04 / GITHUB STATS`
+### `04 // DEVELOPMENT ACTIVITY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lukinhas04p&show_icons=true&theme=dark&bg_color=0d0d0f&title_color=ff334a&icon_color=ff334a&text_color=eeeeee&border_color=54212b" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Lukinhas04p&show_icons=true&theme=dark&bg_color=0d0d0f&title_color=ff3048&icon_color=ff3048&text_color=eeeeee&border_color=65212d&hide_border=false" alt="Estatísticas públicas do GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukinhas04p&layout=compact&theme=dark&bg_color=0d0d0f&title_color=ff3048&text_color=eeeeee&border_color=65212d" alt="Linguagens dos repositórios públicos" height="165"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukinhas04p&layout=compact&theme=dark&bg_color=0d0d0f&title_color=ff334a&text_color=eeeeee&border_color=54212b" alt="Linguagens mais usadas"/>
+<sub>Estatísticas geradas por serviço externo a partir dos dados disponíveis; projetos privados podem não aparecer.</sub>
 
 </div>
 
-> As estatísticas dependem dos dados públicos disponíveis e da disponibilidade dos serviços externos.
-
-### `05 / CONECTE-SE`
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lukinhas04p-161616?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukinhas04p)
-[![Website](https://img.shields.io/badge/Projeto-Barbearia%20Artes-B5122B?style=for-the-badge&logo=vercel&logoColor=white)](https://barbearia-artes.vercel.app/)
+### `05 // LET'S BUILD SOMETHING`
 
-**`BUILD. LEARN. EVOLVE.`**
+**DESIGN. CODE. DEPLOY. REPEAT.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:ed1c34,50:7f1020,100:080808" width="100%" alt="Rodapé preto e vermelho"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:080808,50:7f1020,100:ed1c34" width="100%" alt="Rodapé em preto e vermelho"/>
 
 </div>
