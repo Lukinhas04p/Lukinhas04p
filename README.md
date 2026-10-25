@@ -14,6 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PROJETO_ONLINE-BARBEARIA_ARTES-E32640?style=for-the-badge&logo=vercel&logoColor=white)](https://barbearia-artes.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-LUKINHAS04P-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukinhas04p)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@LUKINHASS__VP-E32640?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukinhass_vp/)
 
 </div>
 
