@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="LUCAS.DEV - Black and Red developer banner">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060609"/><stop offset="1" stop-color="#1b080e"/></linearGradient><linearGradient id="line"><stop stop-color="#5d1423"/><stop offset=".52" stop-color="#ff314e"/><stop offset="1" stop-color="#7c172a"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="6"/></filter><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#51212c" stroke-opacity=".38" stroke-width=".8"/></pattern></defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<path d="M0 330L1200 90M0 355L1200 115" stroke="#a71a33" opacity=".12" stroke-width="3"/>
+<rect x="30" y="26" width="1140" height="308" rx="14" fill="none" stroke="#6b2634" stroke-width="1.5"/>
+<circle cx="60" cy="55" r="6" fill="#ff314e"/><circle cx="80" cy="55" r="6" fill="#7d2434"/><circle cx="100" cy="55" r="6" fill="#7d2434"/>
+<text x="132" y="61" fill="#d6aab4" font-size="18" font-family="monospace">~/Lukinhas04p/profile</text>
+<text x="74" y="128" fill="#ff4d64" font-family="monospace" font-size="19" letter-spacing="5">SOFTWARE DEVELOPER // 2026</text>
+<text x="70" y="222" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="91" letter-spacing="-3">LUCAS<tspan fill="#ff3048">.DEV</tspan></text>
+<text x="75" y="267" fill="#c5a7b0" font-family="monospace" font-size="20" letter-spacing="2">CODE. CREATE. EVOLVE.</text>
+<path d="M75 290H645" stroke="url(#line)" stroke-width="3"/>
+<g transform="translate(770 85)" fill="none" stroke="#ff3048"><circle cx="155" cy="100" r="95" opacity=".22"/><circle cx="155" cy="100" r="73" opacity=".45"/><circle cx="155" cy="100" r="50" opacity=".7"/><path d="M155 -7V207M48 100H262" opacity=".4"/><path d="M45 126L80 126L99 79L126 152L154 99L185 99L205 55L229 126L265 126" stroke-width="4" filter="url(#glow)" opacity=".8"/><path d="M45 126L80 126L99 79L126 152L154 99L185 99L205 55L229 126L265 126" stroke-width="3"/></g>
+<text x="980" y="313" fill="#ff5268" font-family="monospace" font-size="15">SYSTEM ONLINE ●</text>
+</svg>
