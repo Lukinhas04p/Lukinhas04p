@@ -12,7 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=FF3048&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Learning+something+new+every+day;Code.+Create.+Evolve." alt="Frases animadas sobre desenvolvimento"/>
 
-[![LUCAS.DEV](https://img.shields.io/badge/LUCAS.DEV-ACESSAR_PORTF%C3%93LIO-FF3048?style=for-the-badge&logo=vercel&logoColor=white)](https://lucas-dev-ultra-1s7nzmofu-lv-3a08.vercel.app)
+[![LUCAS.DEV](https://img.shields.io/badge/LUCAS.DEV-ACESSAR_PORTF%C3%93LIO-FF3048?style=for-the-badge&logo=vercel&logoColor=white)](https://lucas-dev-ultra-io1dh5uwz-lv-3a08.vercel.app)
 [![Portfolio](https://img.shields.io/badge/PROJETO_ONLINE-BARBEARIA_ARTES-E32640?style=for-the-badge&logo=vercel&logoColor=white)](https://barbearia-artes.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GITHUB-LUKINHAS04P-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukinhas04p)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-@LUKINHASS__VP-E32640?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukinhass_vp/)
@@ -58,7 +58,7 @@ Sou estudante de **Ciência da Computação** e gosto de transformar ideias em p
 
 Portfólio pessoal com visual tecnológico preto e vermelho, apresentação de projetos, LUCAS.BOT interativo e acesso à campanha de apoio pela Vakinha oficial.
 
-**[ACESSAR LUCAS.DEV ↗](https://lucas-dev-ultra-1s7nzmofu-lv-3a08.vercel.app)**
+**[ACESSAR LUCAS.DEV ↗](https://lucas-dev-ultra-io1dh5uwz-lv-3a08.vercel.app)**
 
 </td></tr><tr><td width="100%">
 
